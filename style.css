@@ -1,8 +1,14 @@
-div{
+form{
 	float:left;
-	overflow: auto;
+	
+}
+
+input:focus {
+    border: 1px 
+    solid #555;
 }
 
 button	 {
 	display: block;
 }
+
