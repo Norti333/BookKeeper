@@ -1,0 +1,8 @@
+div{
+	float:left;
+	overflow: auto;
+}
+
+button	 {
+	display: block;
+}
